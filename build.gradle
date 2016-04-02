@@ -1,0 +1,5 @@
+dependencies {
+	compile vendor('noerp:base:1.0.0')
+	compile vendor('noerp:entity:1.0.0')
+	compile vendor('noerp:common:1.0.0')
+}
